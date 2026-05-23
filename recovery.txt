@@ -1,0 +1,286 @@
+﻿    <section id="ai-tools" class="categories">
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <h2 class="section-title">Pilih Kebutuhan Digital Anda</h2>
+                <p class="section-desc">SatuAkses membantu Anda memilih akses digital sesuai kebutuhan kerja, belajar, produktivitas, hiburan, dan pembuatan konten.</p>
+            </div>
+            <div class="category-grid">
+                <div class="category-card cat-ai reveal delay-100">
+                    <div class="card-icon">✦</div>
+                    <h3 class="card-title">AI Tools</h3>
+                    <p class="card-text">GPT, Gemini Pro, Gamma AI, dan tools AI lain untuk membantu kerja, belajar, riset, dan pembuatan konten.</p>
+                </div>
+                <div class="category-card cat-prod reveal delay-200">
+                    <div class="card-icon">⊞</div>
+                    <h3 class="card-title">Productivity</h3>
+                    <p class="card-text">Microsoft 365 dan tools produktivitas lain untuk kebutuhan kerja, kuliah, bisnis, dan aktivitas harian.</p>
+                </div>
+                <div class="category-card cat-ent reveal delay-300">
+                    <div class="card-icon">▶</div>
+                    <h3 class="card-title">Entertainment</h3>
+                    <p class="card-text">YouTube Premium dan layanan hiburan digital lain untuk pengalaman penggunaan yang lebih nyaman.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Packages Section -->
+    <section id="paket" class="packages">
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <h2 class="section-title">Paket Berlangganan Plus</h2>
+                <p class="section-desc">Pilih paket digital premium yang sesuai dengan kebutuhan Anda.</p>
+            </div>
+            <div class="package-grid">
+                <!-- Card 1 -->
+                <div class="package-card reveal delay-100">
+                    <div class="pkg-header">
+                        <div class="pkg-icon bg-gpt">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="#10A37F"><path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2057 5.9847 5.9847 0 0 0 3.989-2.9 6.051 6.051 0 0 0-.7388-7.0732zM13.2599 22.5003c-1.229 0-2.3996-.4477-3.3256-1.261l.1491-.0868 4.7077-2.7183a.7533.7533 0 0 0 .3786-.6532v-5.4678l1.666 .962v5.477c0 2.0628-1.6881 3.7481-3.5758 3.7481zm-9.0305-2.7093a4.5422 4.5422 0 0 1-.9503-3.4184l.1424.103 4.7077 2.7183a.7533.7533 0 0 0 .7573 0l4.735-2.734v1.924l-4.7214 2.7262c-1.7865 1.0315-4.0416.4223-5.0746-1.3533zm-2.0722-9.45a4.5422 4.5422 0 0 1 2.3759-2.1573v5.4216a.7533.7533 0 0 0 .3786.6532l4.735 2.734-1.666.962-4.7214-2.7262c-1.7865-1.0315-2.4045-3.3055-1.373-5.0911zm15.7029 3.03l-4.7077-2.7183a.7533.7533 0 0 0-.7573 0l-4.735 2.734v-1.924l4.7214-2.7262c1.7865-1.0315 4.0416-.4223 5.0746 1.3533a4.5422 4.5422 0 0 1 .9503 3.4184l-.1424-.103zm2.0722-1.365a4.5422 4.5422 0 0 1-2.3759 2.1573V8.7417a.7533.7533 0 0 0-.3786-.6532l-4.735-2.734 1.666-.962 4.7214 2.7262c1.7865 1.0315 2.4045 3.3055 1.373 5.0911zm-9.0305-9.4853c1.229 0 2.3996.4477 3.3256 1.261l-.1491.0868-4.7077 2.7183a.7533.7533 0 0 0-.3786.6532v5.4678l-1.666-.962v-5.477c0-2.0628 1.6881-3.7481 3.5758-3.7481zm3.4328 6.7005l-3.4328-1.9823-3.4328 1.9823v3.9646l3.4328 1.9823 3.4328-1.9823V9.222z"/></svg>
+                        </div>
+                        <div class="pkg-title-group">
+                            <div class="pkg-badge">AI Tools</div>
+                            <h3 class="pkg-name">GPT Plus</h3>
+                        </div>
+                    </div>
+                    <p class="pkg-benefit">Akses fitur advanced AI untuk riset & teks.</p>
+                    <div class="pkg-price-wrap">
+                        <div class="pkg-price-label">Mulai dari</div>
+                        <div class="pkg-price-value">Rp 80.000 <span class="pkg-duration">/ Bulanan</span></div>
+                    </div>
+                    <ul class="pkg-features">
+                        <li><span class="check-icon">✓</span> Aktivasi dibantu</li>
+                        <li><span class="check-icon">✓</span> Info paket jelas</li>
+                        <li><span class="check-icon">✓</span> Support setelah pembelian</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary btn-full">Pilih Paket</a>
+                    <div class="pkg-support-note">Bantuan aktivasi tersedia</div>
+                </div>
+                <!-- Card 2 -->
+                <div class="package-card reveal delay-200">
+                    <div class="pkg-header">
+                        <div class="pkg-icon bg-gemini">
+                            <svg viewBox="0 0 24 24" width="24" height="24">
+                            <defs>
+                            <linearGradient id="cardGemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                              <stop offset="0%" stop-color="#4285F4"/>
+                              <stop offset="50%" stop-color="#9B72CB"/>
+                              <stop offset="100%" stop-color="#D96570"/>
+                            </linearGradient>
+                            </defs>
+                            <path fill="url(#cardGemGrad)" d="M12 22c0-5.523-4.477-10-10-10 5.523 0 10-4.477 10-10 0 5.523 4.477 10 10 10-5.523 0-10 4.477-10 10z"/>
+                            </svg>
+                        </div>
+                        <div class="pkg-title-group">
+                            <div class="pkg-badge">AI Tools</div>
+                            <h3 class="pkg-name">Gemini Pro</h3>
+                        </div>
+                    </div>
+                    <p class="pkg-benefit">Google's most capable AI untuk complex tasks.</p>
+                    <div class="pkg-price-wrap">
+                        <div class="pkg-price-label">Mulai dari</div>
+                        <div class="pkg-price-value">Rp 80.000 <span class="pkg-duration">/ Bulanan</span></div>
+                    </div>
+                    <ul class="pkg-features">
+                        <li><span class="check-icon">✓</span> Aktivasi dibantu</li>
+                        <li><span class="check-icon">✓</span> Info paket jelas</li>
+                        <li><span class="check-icon">✓</span> Support setelah pembelian</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary btn-full">Pilih Paket</a>
+                    <div class="pkg-support-note">Bantuan aktivasi tersedia</div>
+                </div>
+                <!-- Card 3 -->
+                <div class="package-card reveal delay-300">
+                    <div class="pkg-header">
+                        <div class="pkg-icon bg-yt">
+                            <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path fill="#FF0000" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z"/>
+                            <path fill="#FFFFFF" d="M9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                            </svg>
+                        </div>
+                        <div class="pkg-title-group">
+                            <div class="pkg-badge">Entertainment</div>
+                            <h3 class="pkg-name">YouTube Premium</h3>
+                        </div>
+                    </div>
+                    <p class="pkg-benefit">Bebas iklan, putar di latar, dan offline play.</p>
+                    <div class="pkg-price-wrap">
+                        <div class="pkg-price-label">Mulai dari</div>
+                        <div class="pkg-price-value">Rp 40.000 <span class="pkg-duration">/ Bulanan</span></div>
+                    </div>
+                    <ul class="pkg-features">
+                        <li><span class="check-icon">✓</span> Aktivasi dibantu</li>
+                        <li><span class="check-icon">✓</span> Info paket jelas</li>
+                        <li><span class="check-icon">✓</span> Support setelah pembelian</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary btn-full">Pilih Paket</a>
+                    <div class="pkg-support-note">Bantuan aktivasi tersedia</div>
+                </div>
+                <!-- Card 4 -->
+                <div class="package-card reveal delay-400">
+                    <div class="pkg-header">
+                        <div class="pkg-icon bg-gamma">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none">
+                            <rect width="24" height="24" rx="6" fill="#8B5CF6" />
+                            <path d="M16 12H12V16H14.5C14.5 17.5 13.5 18 12 18C10 18 9 16.5 9 14.5V9.5C9 7.5 10 6 12 6C13.5 6 14.5 7 14.5 8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="pkg-title-group">
+                            <div class="pkg-badge">AI Tools</div>
+                            <h3 class="pkg-name">Gamma AI</h3>
+                        </div>
+                    </div>
+                    <p class="pkg-benefit">Buat presentasi instan, tanpa watermark.</p>
+                    <div class="pkg-price-wrap">
+                        <div class="pkg-price-label">Mulai dari</div>
+                        <div class="pkg-price-value">Rp 75.000 <span class="pkg-duration">/ Bulanan</span></div>
+                    </div>
+                    <ul class="pkg-features">
+                        <li><span class="check-icon">✓</span> Aktivasi dibantu</li>
+                        <li><span class="check-icon">✓</span> Info paket jelas</li>
+                        <li><span class="check-icon">✓</span> Support setelah pembelian</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary btn-full">Pilih Paket</a>
+                    <div class="pkg-support-note">Bantuan aktivasi tersedia</div>
+                </div>
+                <!-- Card 5 -->
+                <div class="package-card reveal delay-500">
+                    <div class="pkg-header">
+                        <div class="pkg-icon bg-ms">
+                            <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path fill="#F25022" d="M1.145 1.145h10.282v10.282H1.145z"/>
+                            <path fill="#7FBA00" d="M12.573 1.145h10.282v10.282H12.573z"/>
+                            <path fill="#00A4EF" d="M1.145 12.573h10.282v10.282H1.145z"/>
+                            <path fill="#FFB900" d="M12.573 12.573h10.282v10.282H12.573z"/>
+                            </svg>
+                        </div>
+                        <div class="pkg-title-group">
+                            <div class="pkg-badge">Productivity</div>
+                            <h3 class="pkg-name">Microsoft 365</h3>
+                        </div>
+                    </div>
+                    <p class="pkg-benefit">Akses Word, Excel, PowerPoint & 1TB Cloud.</p>
+                    <div class="pkg-price-wrap">
+                        <div class="pkg-price-label">Mulai dari</div>
+                        <div class="pkg-price-value">Rp 85.000 <span class="pkg-duration">/ Bulanan</span></div>
+                    </div>
+                    <ul class="pkg-features">
+                        <li><span class="check-icon">✓</span> Aktivasi dibantu</li>
+                        <li><span class="check-icon">✓</span> Info paket jelas</li>
+                        <li><span class="check-icon">✓</span> Support setelah pembelian</li>
+                    </ul>
+                    <a href="#" class="btn btn-primary btn-full">Pilih Paket</a>
+                    <div class="pkg-support-note">Bantuan aktivasi tersedia</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section class="benefits">
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <h2 class="section-title">Kenapa Berlangganan Lewat SatuAkses.id?</h2>
+            </div>
+            <div class="benefit-grid">
+                <div class="benefit-card reveal delay-100">
+                    <div class="b-icon">🔍</div>
+                    <h3 class="b-title">Transparansi Paket</h3>
+                    <p class="b-desc">Harga, durasi, dan detail syarat disampaikan sejak awal dengan jelas.</p>
+                </div>
+                <div class="benefit-card reveal delay-200">
+                    <div class="b-icon">🤝</div>
+                    <h3 class="b-title">Trust Layer</h3>
+                    <p class="b-desc">Bantuan aktivasi dan kebijakan support responsif setelah pembelian.</p>
+                </div>
+                <div class="benefit-card reveal delay-300">
+                    <div class="b-icon">🛡️</div>
+                    <h3 class="b-title">Akses Bertanggung Jawab</h3>
+                    <p class="b-desc">Hanya kurasi layanan resmi dan akun terverifikasi yang aman digunakan.</p>
+                </div>
+                <div class="benefit-card reveal delay-400">
+                    <div class="b-icon">✨</div>
+                    <h3 class="b-title">Proses Lebih Rapi</h3>
+                    <p class="b-desc">Pilih paket, selesaikan pembayaran, dan nikmati akses tanpa ribet.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How to Order -->
+    <section id="cara-order" class="how-to-order">
+        <div class="hto-blob hto-blob-1"></div>
+        <div class="hto-blob hto-blob-2"></div>
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <h2 class="section-title">Cara Berlangganan di <span style="color:var(--color-blue)">SatuAkses.id</span></h2>
+                <div class="hto-divider">
+                    <span class="hto-dot"></span><span class="hto-dash"></span><span class="hto-dot hto-dot-amber"></span><span class="hto-dash"></span><span class="hto-dot"></span>
+                </div>
+            </div>
+            <div class="hto-step-numbers reveal delay-100">
+                <svg class="hto-connector" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><path d="M 90 30 C 150 10, 175 50, 270 30 C 350 10, 375 50, 450 30 C 530 10, 555 50, 630 30 C 710 10, 735 50, 810 30" fill="none" stroke="#2F80ED" stroke-width="2.5" stroke-dasharray="8 6" stroke-linecap="round"/></svg>
+                <div class="hto-num"><span>1</span></div>
+                <div class="hto-num"><span>2</span></div>
+                <div class="hto-num"><span>3</span></div>
+                <div class="hto-num"><span>4</span></div>
+                <div class="hto-num"><span>5</span></div>
+            </div>
+            <div class="hto-cards reveal delay-200">
+                <div class="hto-card">
+                    <div class="hto-card-illus">
+                        <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="20" width="80" height="52" rx="4" fill="#E8F0FE" stroke="#2F80ED" stroke-width="2"/><rect x="24" y="24" width="72" height="40" rx="2" fill="#fff"/><rect x="28" y="28" width="18" height="6" rx="1" fill="#E2E8F0"/><rect x="50" y="28" width="18" height="6" rx="1" fill="#DBEAFE"/><rect x="72" y="28" width="18" height="6" rx="1" fill="#FEF3C7"/><text x="29" y="34" font-size="5" fill="#64748B" font-family="sans-serif">Basic</text><text x="51" y="34" font-size="5" fill="#2F80ED" font-family="sans-serif">Pro</text><text x="73" y="34" font-size="5" fill="#D97706" font-family="sans-serif">Plus</text><line x1="28" y1="37" x2="90" y2="37" stroke="#E2E8F0" stroke-width="1"/><circle cx="37" cy="44" r="3" fill="#E2E8F0"/><circle cx="59" cy="44" r="3" fill="#2F80ED"/><circle cx="81" cy="44" r="3" fill="#F5A623"/><circle cx="37" cy="52" r="3" fill="#E2E8F0"/><circle cx="59" cy="52" r="3" fill="#2F80ED"/><circle cx="81" cy="52" r="3" fill="#F5A623"/><rect x="10" y="72" width="100" height="5" rx="2" fill="#CBD5E1"/><circle cx="90" cy="22" r="10" fill="#2F80ED"/><polyline points="85,22 88,26 95,18" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="12" y="55" width="12" height="12" rx="2" fill="#F5A623" opacity="0.8"/><rect x="8" y="62" width="12" height="10" rx="2" fill="#D97706" opacity="0.7"/></svg>
+                    </div>
+                    <p class="hto-card-text">Pilih paket digital yang tersedia</p>
+                </div>
+                <div class="hto-card">
+                    <div class="hto-card-illus">
+                        <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"><circle cx="52" cy="28" r="14" fill="#DBEAFE" stroke="#2F80ED" stroke-width="2"/><ellipse cx="52" cy="65" rx="22" ry="18" fill="#2F80ED"/><path d="M 38 26 Q 52 12 66 26" fill="none" stroke="#0D1B2A" stroke-width="2.5" stroke-linecap="round"/><rect x="36" y="24" width="5" height="8" rx="2" fill="#0D1B2A"/><rect x="63" y="24" width="5" height="8" rx="2" fill="#0D1B2A"/><rect x="46" y="60" width="12" height="8" rx="2" fill="#F5A623"/><text x="48" y="67" font-size="5" fill="#0D1B2A" font-weight="bold" font-family="sans-serif">SA</text><rect x="72" y="22" width="26" height="16" rx="6" fill="#fff" stroke="#2F80ED" stroke-width="1.5"/><circle cx="79" cy="30" r="2" fill="#2F80ED"/><circle cx="85" cy="30" r="2" fill="#2F80ED"/><circle cx="91" cy="30" r="2" fill="#2F80ED"/><rect x="68" y="44" width="40" height="28" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/><text x="74" y="54" font-size="5" fill="#334155" font-family="sans-serif">Form Pesan</text><rect x="72" y="58" width="28" height="3" rx="1" fill="#E2E8F0"/><rect x="72" y="63" width="20" height="3" rx="1" fill="#E2E8F0"/><rect x="86" y="66" width="14" height="4" rx="2" fill="#2F80ED"/><text x="88" y="70" font-size="4" fill="white" font-family="sans-serif">Kirim</text></svg>
+                    </div>
+                    <p class="hto-card-text">Hubungi admin atau isi form pemesanan</p>
+                </div>
+                <div class="hto-card">
+                    <div class="hto-card-illus">
+                        <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"><path d="M 60 12 L 78 20 L 78 42 Q 78 58 60 64 Q 42 58 42 42 L 42 20 Z" fill="#D1FAE5" stroke="#10B981" stroke-width="2"/><polyline points="52,40 57,46 68,33" fill="none" stroke="#10B981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="14" y="52" width="45" height="32" rx="6" fill="#1E3A5F" stroke="#2F80ED" stroke-width="1.5"/><rect x="14" y="57" width="45" height="8" fill="#2F80ED" opacity="0.5"/><rect x="18" y="59" width="18" height="4" rx="1" fill="#F5A623" opacity="0.9"/><circle cx="50" cy="70" r="6" fill="#F5A623"/><text x="47" y="73" font-size="6" fill="#fff" font-weight="bold" font-family="sans-serif">$</text><rect x="64" y="50" width="40" height="38" rx="4" fill="#fff" stroke="#E2E8F0" stroke-width="1.5"/><text x="68" y="60" font-size="5" fill="#0D1B2A" font-weight="bold" font-family="sans-serif">QRIS</text><rect x="68" y="64" width="7" height="7" rx="1" fill="#0D1B2A"/><rect x="78" y="64" width="7" height="7" rx="1" fill="#0D1B2A"/><rect x="88" y="64" width="7" height="7" rx="1" fill="#0D1B2A"/><rect x="68" y="74" width="7" height="7" rx="1" fill="#0D1B2A"/><rect x="78" y="74" width="3" height="3" rx="1" fill="#0D1B2A"/><rect x="88" y="74" width="7" height="7" rx="1" fill="#0D1B2A"/></svg>
+                    </div>
+                    <p class="hto-card-text">Lakukan pembayaran</p>
+                </div>
+                <div class="hto-card">
+                    <div class="hto-card-illus">
+                        <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"><circle cx="48" cy="28" r="14" fill="#DBEAFE" stroke="#2F80ED" stroke-width="2"/><ellipse cx="48" cy="66" rx="20" ry="17" fill="#2F80ED"/><path d="M 34 26 Q 48 12 62 26" fill="none" stroke="#0D1B2A" stroke-width="2.5" stroke-linecap="round"/><rect x="32" y="24" width="5" height="8" rx="2" fill="#0D1B2A"/><rect x="59" y="24" width="5" height="8" rx="2" fill="#0D1B2A"/><rect x="42" y="61" width="12" height="8" rx="2" fill="#F5A623"/><text x="44" y="68" font-size="5" fill="#0D1B2A" font-weight="bold" font-family="sans-serif">SA</text><rect x="68" y="44" width="40" height="30" rx="3" fill="#1E3A5F" stroke="#2F80ED" stroke-width="1.5"/><rect x="71" y="47" width="34" height="22" rx="1" fill="#0D1B2A"/><rect x="74" y="51" width="22" height="2" rx="1" fill="#2F80ED" opacity="0.7"/><rect x="74" y="56" width="28" height="2" rx="1" fill="#2F80ED" opacity="0.5"/><rect x="74" y="61" width="16" height="2" rx="1" fill="#2F80ED" opacity="0.3"/><rect x="62" y="74" width="54" height="4" rx="2" fill="#CBD5E1"/><circle cx="106" cy="46" r="10" fill="#F5A623"/><circle cx="106" cy="46" r="5" fill="#D97706"/><circle cx="66" cy="42" r="8" fill="#10B981"/><polyline points="62,42 65,46 71,37" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </div>
+                    <p class="hto-card-text">Proses aktivasi dibantu oleh tim SatuAkses.id</p>
+                </div>
+                <div class="hto-card">
+                    <div class="hto-card-illus">
+                        <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"><circle cx="72" cy="30" r="14" fill="#FEF3C7" stroke="#F5A623" stroke-width="2"/><ellipse cx="72" cy="68" rx="20" ry="17" fill="#2F80ED"/><path d="M 60 24 Q 62 10 72 16 Q 82 10 84 24" fill="#0D1B2A" opacity="0.8"/><rect x="66" y="63" width="12" height="8" rx="2" fill="#F5A623"/><text x="68" y="70" font-size="5" fill="#0D1B2A" font-weight="bold" font-family="sans-serif">SA</text><path d="M 86 56 L 92 50 Q 94 48 96 50 L 96 64 Q 96 66 94 66 L 86 66 Q 84 66 84 64 L 84 58 Q 84 56 86 56Z" fill="#10B981"/><rect x="83" y="60" width="3" height="8" rx="1" fill="#059669"/><rect x="14" y="42" width="34" height="24" rx="4" fill="#1E3A5F" stroke="#2F80ED" stroke-width="1.5"/><polygon points="24,47 24,61 38,54" fill="#2F80ED"/><rect x="10" y="72" width="8" height="14" rx="2" fill="#DBEAFE"/><rect x="22" y="64" width="8" height="22" rx="2" fill="#2F80ED"/><rect x="34" y="58" width="8" height="28" rx="2" fill="#1D4ED8"/><rect x="46" y="68" width="8" height="18" rx="2" fill="#DBEAFE"/><path d="M 8 30 L 9.5 34 L 13 35.5 L 9.5 37 L 8 41 L 6.5 37 L 3 35.5 L 6.5 34 Z" fill="#F5A623" opacity="0.8"/><circle cx="52" cy="80" r="8" fill="#10B981"/><polyline points="48,80 51,84 57,76" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </div>
+                    <p class="hto-card-text">Gunakan produk sesuai kebutuhan</p>
+                </div>
+            </div>
+            <div class="hto-trust-bar reveal delay-300">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 2L12 7H17.5L13 10.5L15 16L10 12.5L5 16L7 10.5L2.5 7H8L10 2Z" fill="#2F80ED"/></svg>
+                <span>Mudah, aman, dan terpercaya bersama <strong style="color:var(--color-blue)">SatuAkses.id</strong></span>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Trust / Support -->
+    <section class="trust-support">
+        <div class="container">
+            <div class="support-layout">
+                <div class="support-content reveal">
+                    <h2 class="section-title">Praktis, Aman, dan Didukung Support Responsif</h2>
+                    <p class="section-desc text-left">SatuAkses.id membantu pengguna menikmati layanan digital premium dengan cara yang lebih hemat, mudah, dan transparan melalui pilihan paket akses yang dikurasi.</p>
+                    <div class="trust-badges">
+                        <div class="t-badge"><span class="check" style="color:var(--color-blue)">✓</span> Transparansi Paket</div>
+                        <div class="t-badge"><span class="check" style="color:var(--color-blue)">✓</span> Aktivasi Terjadwal</div>
+                        <div class="t-badge"><span class="check" style="color:var(--color-blue)">✓</span> Support Tersedia</div>
+                        <div class="t-badge"><span class="check" style="color:var(--color-blue)">✓</span> Proses Jelas</div>
+                    </div>
+                </div>
+                <div class="support-action reveal delay-200">
+                    <div class="support-card">
+                        <h3 class="sc-title">Butuh bantuan memilih paket?</h3>
+                        <p class="sc-text">Tim kami siap membantu Anda memilih langganan digital yang sesuai dengan kebutuhan.</p>
+                        <a href="#" class="btn btn-primary btn-full">Konsultasi via WhatsApp</a>
